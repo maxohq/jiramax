@@ -6,4 +6,5 @@
 
 - JIRA Search (to get all issues)
     - https://community.atlassian.com/t5/Jira-questions/How-to-get-all-issues-in-jira-using-rest-api/qaq-p/826281
+    - `Jiramax.IssueSearch.search_for_issues_using_jql` ???
 
